@@ -39,71 +39,21 @@ My research interests center on applying AI models and creating innovative deep 
 </div> -->
 
 <ul>
-    <li>
-    <code class="language-plaintext highlighter-rouge">CSBJ 2024</code>
-    <a href="https://doi.org/10.1016/j.csbj.2024.04.038">Multi-layered Knowledge Graph Neural Network Reveals Pathway-level Agreement of Three Breast Cancer Multi-gene Assays</a>
-    <br> Sangseon Lee*, Joonhyeong Park*, <strong style="color: #dc322f">Yinhua Piao</strong>, Dohoon Lee, Danyeong Lee, Sun Kim
+
+
+
+  <li>
+    <code class="language-plaintext highlighter-rouge">NeurIPS WorkShop 2024</code>
+    <a href="https://openreview.net/forum?id=06B23UkNid">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
+    <br> Sumin Ha*, <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Yinhua Piao, Sun Kim
   </li>
 
   <li>
-    <code class="language-plaintext highlighter-rouge">CVPR 2024</code>
-    <a href="https://arxiv.org/abs/2403.01773">Improving Out-of-Distribution Generalization in Graphs via Hierarchical Semantic Environments</a>
-    <br> <strong style="color: #dc322f">Yinhua Piao</strong>, Sangseon Lee, Yijingxiu Lu, Sun Kim | <a href="https://github.com/qkrdmsghk/GOODHSE"><strong>Project</strong></a>
+    <code class="language-plaintext highlighter-rouge">Bioinformatics 2024</code>
+    <a href="https://academic.oup.com/bioinformatics/article/40/11/btae634/7829145">PONYTA: prioritization of phenotype-related genes from mouse KO events using PU learning on a biological network</a>
+    <br> <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Bonil Koo*, Sun Kim | <a href="https://github.com/Jun-Hyeong-Kim/PONYTA"><strong>Project</strong></a>
   </li>
 
-  <li>
-    <code class="language-plaintext highlighter-rouge">ICLR 2024 Tiny Paper Track</code>
-    <a href="https://openreview.net/forum?id=e2Bkf1Bzh4">Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture</a>
-    <br> Yijingxiu Lu, <strong style="color: #dc322f">Yinhua Piao</strong>, Sun Kim | <a href="https://github.com/solanoon/CabidaDDI"><strong>Project</strong></a>
-  </li>
-
-  <li>
-    <code class="language-plaintext highlighter-rouge">CSBJ 2023</code>
-    <a href="https://doi.org/10.1016/j.csbj.2023.08.016">Exploring Chemical Space for Lead Identification by Propagating on Chemical Similarity Network</a>
-    <br> Jungseob Yi, Sangseon Lee, Sangsoo Lim, Changyun Cho, <strong style="color: #dc322f">Yinhua Piao</strong>, Marie Yeo, Dongkyu Kim, Sun Kim, Sunho Lee | <a href="https://github.com/J-Sub/ChemNP"><strong>Project</strong></a>
-  </li>
-
-  <li>
-    <code class="language-plaintext highlighter-rouge">ACL 2023</code>
-    <!-- <span style="color:red">(Long paper)</span> -->
-    <a href="https://arxiv.org/abs/2305.09756">Clinical Note Owns its Hierarchy: Multi-Level Hypergraph Neural Networks for Patient-Level Representation Learning</a>
-    <br> Nayeon Kim*, <strong style="color: #dc322f">Yinhua Piao*</strong>, Sun Kim | <a href="https://github.com/ny1031/TM-HGNN"><strong>Project</strong></a>
-  </li>
-
-  <li>
-    <code class="language-plaintext highlighter-rouge">IJMS 2022</code>
-    <!-- <span style="color:red">(Long paper)</span> -->
-    <a href="https://www.mdpi.com/1422-0067/23/22/13919">DRPreter: Interpretable Anticancer Drug Response Prediction Using Knowledge-Guided Graph Neural Networks and Transformer</a>
-    <br> Jihye Shin*, <strong style="color: #dc322f">Yinhua Piao*</strong>, Dongmin Bang, Sun Kim, Kyuri Jo | <a href="https://github.com/babaling/DRPreter"><strong>Project</strong></a>
-  </li>
-
-  <li>
-    <code class="language-plaintext highlighter-rouge">NeurIPS 2022</code>
-    <!-- <span style="color:red">(GLFrontiers Workshop)</span> -->
-    <a href="https://openreview.net/forum?id=z3SHKtoG5XZ">SPGP: Structure Prototype Guided Graph Pooling</a>
-    <br> Sangseon Lee, Dohoon Lee, <strong style="color: #dc322f">Yinhua Piao</strong>, Sun Kim
-  </li>
-
-  <li>
-    <code class="language-plaintext highlighter-rouge">CSBJ 2022</code>
-    <!-- <span style="color:red">(Survey paper)</span> -->
-    <a href="https://www.sciencedirect.com/science/article/pii/S2001037022003300">On modeling and utilizing chemical compound information with deep learning technologies: A task-oriented approach</a>
-    <br> Sangsoo Lim, Sangseon Lee, <strong style="color: #dc322f">Yinhua Piao</strong>, MinGyu Choi, Dongmin Bang, Jeonghyeon Gu, Sun Kim
-  </li>
-
-  <li>
-    <code class="language-plaintext highlighter-rouge">AAAI 2022</code>
-    <!-- <span style="color:red">(Survey paper)</span> -->
-    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/21366">Sparse Structure learning via Graph Neural Networks for Inductive Document Classification</a>
-    <br> <strong style="color: #dc322f">Yinhua Piao</strong>, Sangseon Lee, Dohoon Lee, Sun Kim| <a href="https://github.com/qkrdmsghk/TextSSL"><strong>Project</strong></a>
-  </li>
-
-  <li>
-    <code class="language-plaintext highlighter-rouge">Mathematics 2022</code>
-    <!-- <span style="color:red">(Survey paper)</span> -->
-    <a href="https://www.mdpi.com/2227-7390/9/7/772">Graph convolutional network for drug response prediction using gene expression data</a>
-    <br> Seonghun Kim, Seockhun Bae, <strong style="color: #dc322f">Yinhua Piao</strong>, Kyuri Jo | <a href="https://github.com/BML-cbnu/DrugGCN"><strong>Project</strong></a>
-  </li>
 
 
 </ul>
