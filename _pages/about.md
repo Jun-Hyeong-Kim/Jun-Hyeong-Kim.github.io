@@ -88,7 +88,7 @@ My research interests center on applying AI models and creating innovative deep 
 
 # Teaching Experience
 - <strong style="color: #dc322f">Teaching Assistant</strong>, Computer Convergence Application, 2024 Fall, Computer Science & Engineering Dept., Seoul National University
-  - * Python & PyTorch tutorial*
+  - *Python & PyTorch tutorial*
   - *Tree methods for classification: Decision tree, Random forest, CART, XGBoost, AdaBoost, Gradient Boost*
 - <strong style="color: #dc322f">Teaching Assistant</strong>, Introduction to IT for Bioinformatics, 2024 Spring, Interdisciplinary program in Bioinformatics, Seoul National University
 - <strong style="color: #dc322f">Lead Teaching Assistant</strong>, AI-BIO Research Personnel Training Program, 2023 Fall, AI Institute of Seoul National University (AIIS), Seoul National University
