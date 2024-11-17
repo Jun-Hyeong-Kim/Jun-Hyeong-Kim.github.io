@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jun Hyeong Kim"
-  avatar           : "images/junhyeong.jpeg"
+  avatar           : "images/junhyeong.jpg"
   bio              : "Seoul National University"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mQEG6VcAAAAJ"
-  email            : "yinhuapark@naver.com"
+  email            : "tommykim0906@snu.ac.kr"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : "assets/Academic_CV.pdf"
   bitbucket        :
