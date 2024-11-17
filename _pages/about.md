@@ -43,7 +43,7 @@ My research interests center on applying AI models and creating innovative deep 
 
 
   <li>
-    <code class="language-plaintext highlighter-rouge">NeurIPS WorkShop 2024</code>
+    <code class="language-plaintext highlighter-rouge">preprint</code>
     <a href="https://openreview.net/forum?id=06B23UkNid">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
     <br> Sumin Ha*, <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Yinhua Piao, Sun Kim
   </li>
@@ -56,10 +56,29 @@ My research interests center on applying AI models and creating innovative deep 
 
 </ul>
 
-# 📖 Educations
-- <span style="color: #D56D53">*[2024.09 - now]*</span> Research Assistence at Bio-MAX/N-Bio, Seoul National University.
-- <span style="color: #D56D53">*[2022.09 - 2024.08]*</span> M.S. Student in Interdisciplinary program in Artificial Intelligence, Seoul National University.
-- <span style="color: #D56D53">*[2016.03 - 2022.08]*</span> B.S. Student in Bioengineering & Biotechnology, Yonsei University.
+# 🗣️ Conference 
+
+<ul>
+
+  <li>
+    <code class="language-plaintext highlighter-rouge">NeurIPS WorkShop 2024</code>
+    <a href="https://openreview.net/forum?id=06B23UkNid">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
+    <br> Sumin Ha*, <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Yinhua Piao, Sun Kim. <em>Vancouver, Canada</em> 🇨🇦
+  </li>
+
+  <li>
+    <code class="language-plaintext highlighter-rouge">BIOINFO2024</code>
+    <a href="https://academic.oup.com/bioinformatics/article/40/11/btae634/7829145">PONYTA: prioritization of phenotype-related genes from mouse KO events using PU learning on a biological network</a>
+    <br> <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Bonil Koo*, Sun Kim. <em>Kyungju, South Korea</em> 🇰🇷
+  </li>
+
+</ul>
+
+# 📖 Education
+- <span style="color: #D56D53;">*[2024.09 - present]*</span> Research Assistant at Bio-MAX/N-Bio, Seoul National University.
+- <span style="color: #D56D53;">*[2022.09 - 2024.08]*</span> M.S. Student in Interdisciplinary Program in Artificial Intelligence, Seoul National University.
+- <span style="color: #D56D53;">*[2016.03 - 2022.08]*</span> B.S. Student in Bioengineering & Biotechnology, Yonsei University.
+
 
 # 💻 Internships
 
@@ -68,10 +87,15 @@ My research interests center on applying AI models and creating innovative deep 
 - *2021.06 - 2021.11*, [Stem Cell & Biomaterial Engineering Lab](https://scbel.yonsei.ac.kr/), Yonsei University.
 
 # Teaching Experience
-- <strong style="color: #dc322f">Teaching Assistant</strong>, Computer Convergence Application, 2024 Fall, , Seoul National University
-- <strong style="color: #dc322f">Lead Teaching Assistant</strong>, AI-BIO Research Personnel Training Program, 2024 Fall, AI Institute of Seoul National University (AIIS), Seoul National University
-- *2024.09 - Present*, TA at Computer Convergence Application. 
-- *2023.09 - 2023.12*, Lead TA, AI-BIO Research Personnel Training Program. 
+- <strong style="color: #dc322f">Teaching Assistant</strong>, Computer Convergence Application, 2024 Fall, Computer Science & Engineering Dept., Seoul National University
+  - * Python & PyTorch tutorial*
+  - *Tree methods for classification: Decision tree, Random forest, CART, XGBoost, AdaBoost, Gradient Boost*
+- <strong style="color: #dc322f">Teaching Assistant</strong>, Introduction to IT for Bioinformatics, 2024 Spring, Interdisciplinary program in Bioinformatics, Seoul National University
+- <strong style="color: #dc322f">Lead Teaching Assistant</strong>, AI-BIO Research Personnel Training Program, 2023 Fall, AI Institute of Seoul National University (AIIS), Seoul National University
+- <strong style="color: #dc322f">Teaching Assistant</strong>, Computer Convergence Application, 2023 Fall, Computer Science & Engineering Dept., Seoul National University
+  - *Tree methods for classification: Decision tree, Random forest, CART, XGBoost*
+
+
 
 # 🎖 Honors and Awards
 - <span style="color: #D56D53">*[2024.07]*</span> Research achievement scholarship from Interdisciplinary Program in Artificial Intelligence. 
@@ -82,7 +106,8 @@ My research interests center on applying AI models and creating innovative deep 
 - <span style="color: #D56D53">*[2021.02]*</span> Honors Award.
 - <span style="color: #D56D53">*[2021.02]*</span> Geonseon Scholarship.
 
-
+# ✉ Contact
+email: tommy0906@snu.ac.kr
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
