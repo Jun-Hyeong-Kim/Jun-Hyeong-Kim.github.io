@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yinhua Piao"
-description              : "Focusing on machine learning adoption in real-world healthcare domain. "
-repository               : "qkrdmsghk/qkrdmsghk.github.io"
+title                    : "Jun Hyeong Kim"
+description              : "Bridging AI and biomedicine to solve real-world challenges"
+repository               : "Jun-Hyeong-Kim/kjh.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yinhua Piao"
-  avatar           : "images/yinhua_piao.jpeg"
+  name             : "Jun Hyeong Kim"
+  avatar           : "images/junhyeong.jpeg"
   bio              : "Seoul National University"
   location         : "Seoul, South Korea"
   employer         :
