@@ -18,11 +18,12 @@ My research interests center on applying AI models and creating innovative deep 
 
 
 # 🔥 News
-- <span style="color: #D56D53">*2024.09*:</span> &nbsp;🎉🎉 I won the Youlchon AI Star Fellowship 2024. 
-- <span style="color: #D56D53">*2024.04*:</span> Co-work is accepted by Computational and Structural Biotechnology Journal 2024. 
-- <span style="color: #D56D53">*2024.02*:</span> Our work is accepted by CVPR 2024. 
-- <span style="color: #D56D53">*2024.02*:</span> Co-work is accepted by ICLR tiny paper 2024. 
-- <span style="color: #D56D53">*2024.02*:</span> I won the 30th Samsung HumanTech Paper Award. 
+- <span style="color: #D56D53">*2024.10*:</span> &nbsp;🎉🎉 My work is accepted by NeurIPS WorkShop.
+- <span style="color: #D56D53">*2024.10*:</span> &nbsp;🎉🎉 My work is accepted by Bioinformatics Journal 2024.
+- <span style="color: #D56D53">*2024.10*:</span> I presented my work in BioInfo 2024 held in Kyungju, South Korea.
+- <span style="color: #D56D53">*2024.08*:</span> I participated in the ACL conference held in Bangkok, Thailand. 
+- <span style="color: #D56D53">*2024.07*:</span> I was granted a scholarship by the department in recognition of my work.
+
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
