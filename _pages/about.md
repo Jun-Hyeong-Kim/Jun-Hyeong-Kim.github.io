@@ -10,7 +10,7 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-Hi! Welcome to my website. My name is Jun Hyeong Kim, and I am an M.S. student specializing in Artificial Intelligence at Seoul National University. I am currently conducting research under the guidance of [Professor Sun Kim](https://scholar.google.co.kr/citations?user=lI_oWS8AAAAJ&hl=en). in the [Bio & Health Informatics (BHI) lab](https://bhi-kimlab.github.io/). Prior to this, I completed my Bachelor’s degree in Bioengineering & Biotechnology at Yonsei University, graduating in August 2022.
+Hi! Welcome to my website. My name is Jun Hyeong Kim, and I am an M.S. student specializing in Artificial Intelligence at Seoul National University. I am currently conducting research under the guidance of [Professor Sun Kim](https://scholar.google.co.kr/citations?user=lI_oWS8AAAAJ&hl=en) in the [Bio & Health Informatics (BHI) lab](https://bhi-kimlab.github.io/). Prior to this, I completed my Bachelor’s degree in Bioengineering & Biotechnology at Yonsei University, graduating in August 2022.
 
 My research interests center on applying AI models and creating innovative deep learning tools to tackle complex challenges in the biomedicine domain, aiming to advance precision medicine. Specifically, I focus on utilizing advanced graph neural networks to uncover relationships and structures among biomedical components. More recently, I have been exploring the adaptation of foundation models, such as large language models, to effectively incorporate prior knowledge into biomedical applications.
 
