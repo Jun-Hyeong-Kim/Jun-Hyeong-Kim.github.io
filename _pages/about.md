@@ -18,7 +18,7 @@ My research interests center on applying AI models and creating innovative deep 
 
 
 # 🔥 News
-- <span style="color: #D56D53">*2024.10*:</span> &nbsp;🎉🎉 My work is accepted by NeurIPS WorkShop.
+- <span style="color: #D56D53">*2024.10*:</span> &nbsp;🎉🎉 My work is accepted by NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX).
 - <span style="color: #D56D53">*2024.10*:</span> &nbsp;🎉🎉 My work is accepted by Bioinformatics Journal 2024.
 - <span style="color: #D56D53">*2024.10*:</span> I presented my work in BioInfo 2024 held in Kyungju, South Korea.
 - <span style="color: #D56D53">*2024.08*:</span> I participated in the ACL conference held in Bangkok, Thailand. 
