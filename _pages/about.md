@@ -86,7 +86,7 @@ My research interests center on applying AI models and creating innovative deep 
 - *2021.12 - 2022.05*, [NetBio Lab](https://netbiolab.org/w/Welcome), Yonsei University.
 - *2021.06 - 2021.11*, [Stem Cell & Biomaterial Engineering Lab](https://scbel.yonsei.ac.kr/), Yonsei University.
 
-# Teaching Experience
+# 📚 Teaching Experience
 - <strong style="color: #dc322f">Teaching Assistant</strong>, Computer Convergence Application, 2024 Fall, Computer Science & Engineering Dept., Seoul National University
   - *Python & PyTorch tutorial*
   - *Tree methods for classification: Decision tree, Random forest, CART, XGBoost, AdaBoost, Gradient Boost*
