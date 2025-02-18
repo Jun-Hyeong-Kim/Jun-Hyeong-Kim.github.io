@@ -41,10 +41,9 @@ My research interests center on applying AI models and creating innovative deep 
 <ul>
 
 
-
   <li>
     <code class="language-plaintext highlighter-rouge">preprint</code>
-    <a href="../assets/NeurIPSWorkshop_MVCLAM_JunHyeongKim.pdf">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
+    <a href="../assets/mv_clam_paper_acl2025.pdf">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
     <br> Sumin Ha*, <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Yinhua Piao, Sun Kim
   </li>
 
