@@ -61,7 +61,7 @@ My research interests center on applying AI models and creating innovative deep 
 
   <li>
     <code class="language-plaintext highlighter-rouge">NeurIPS WorkShop 2024</code>
-    <a href="[https://openreview.net/forum?id=06B23UkNid](https://neurips.cc/virtual/2024/102874)">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
+    <a href="https://neurips.cc/virtual/2024/102874">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
     <br> Sumin Ha*, <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Yinhua Piao, Sun Kim. <em>Vancouver, Canada</em> 🇨🇦
   </li>
 
