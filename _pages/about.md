@@ -21,8 +21,8 @@ Recently, I have become particularly interested in leveraging LLMs in biomedicin
 # 🔥 News
 - <span style="color: #D56D53">*2025.09*:</span> &nbsp;🎉🎉 I have joined KAIST’s MLAI Lab as a research intern, advised by Prof. Sung Ju Hwang.
 - <span style="color: #D56D53">*2025.08*:</span> &nbsp;🎉🎉 My work has been accepted to EMNLP Findings 2025.
-- <span style="color: #D56D53">*2024.10*:</span> &nbsp;🎉🎉 My work is accepted by NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX).
-- <span style="color: #D56D53">*2024.10*:</span> &nbsp;🎉🎉 My work is accepted by Bioinformatics Journal 2024.
+- <span style="color: #D56D53">*2024.10*:</span> My work is accepted by NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX).
+- <span style="color: #D56D53">*2024.10*:</span> My work is accepted by Bioinformatics Journal 2024.
 - <span style="color: #D56D53">*2024.10*:</span> I presented my work in BioInfo 2024 held in Kyungju, South Korea.
 - <span style="color: #D56D53">*2024.08*:</span> I participated in the ACL conference held in Bangkok, Thailand. 
 - <span style="color: #D56D53">*2024.07*:</span> I was granted a scholarship by the department in recognition of my work.
