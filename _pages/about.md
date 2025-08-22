@@ -10,14 +10,17 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-Hi! Welcome to my website. My name is Jun Hyeong Kim, and I am an M.S. student specializing in Artificial Intelligence at Seoul National University. I am currently conducting research under the guidance of [Professor Sun Kim](https://scholar.google.co.kr/citations?user=lI_oWS8AAAAJ&hl=en) in the [Bio & Health Informatics (BHI) lab](https://bhi-kimlab.github.io/). Prior to this, I completed my Bachelor’s degree in Bioengineering & Biotechnology at Yonsei University, graduating in August 2022.
+My name is Jun Hyeong Kim, and I am currently a research intern in the [MLAI Lab](https://www.mlai-kaist.com/)at KAIST, advised by [Professor Sung Ju Hwang](http://www.sungjuhwang.com/). I earned my M.S. degree in Artificial Intelligence at Seoul National University, where I conducted research under the guidance of Professor [Sun Kim](https://scholar.google.com/citations?user=lI_oWS8AAAAJ&hl=ko) in the [Bio & Health Informatics (BHI) Lab](https://bhi-kimlab.github.io/). Before that, I completed my Bachelor’s degree in Bioengineering & Biotechnology at Yonsei University, graduating in August 2022.
 
-My research interests center on applying AI models and creating innovative deep learning tools to tackle complex challenges in the biomedicine domain, aiming to advance precision medicine. Specifically, I focus on utilizing advanced graph neural networks to uncover relationships and structures among biomedical components. More recently, I have been exploring the adaptation of foundation models, such as large language models, to effectively incorporate prior knowledge into biomedical applications.
+My previous research has mainly focused on applying graph neural networks (GNNs) and large language models (LLMs) to the biomedical domain—aiming to better capture relationships among biomedical components and to guide LLMs toward generating effective descriptions of drug candidates.
+Recently, I have become particularly interested in leveraging LLMs in biomedicine through retrieval-based approaches such as RAG (Retrieval-Augmented Generation). My current work emphasizes integrating biomedical knowledge graphs to supplement LLMs with domain-specific knowledge and to help them understand the complex interconnections among biomedical components, ultimately improving performance on biomedical tasks.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=mQEG6VcAAAAJ'>google scholar citations <strong><span id='total_cit'>??+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=mQEG6VcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- <span style="color: #D56D53">*2025.09*:</span> &nbsp;🎉🎉 I have joined KAIST’s MLAI Lab as a research intern, advised by Prof. Sung Ju Hwang.
+- <span style="color: #D56D53">*2025.08*:</span> &nbsp;🎉🎉 My work has been accepted to EMNLP Findings 2025.
 - <span style="color: #D56D53">*2024.10*:</span> &nbsp;🎉🎉 My work is accepted by NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX).
 - <span style="color: #D56D53">*2024.10*:</span> &nbsp;🎉🎉 My work is accepted by Bioinformatics Journal 2024.
 - <span style="color: #D56D53">*2024.10*:</span> I presented my work in BioInfo 2024 held in Kyungju, South Korea.
@@ -42,7 +45,7 @@ My research interests center on applying AI models and creating innovative deep 
 
 
   <li>
-    <code class="language-plaintext highlighter-rouge">preprint</code>
+    <code class="language-plaintext highlighter-rouge">EMNLP Findings 2025</code>
     <a href="../assets/mv_clam_paper_acl2025.pdf">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
     <br> Sumin Ha*, <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Yinhua Piao, Sun Kim
   </li>
@@ -60,6 +63,12 @@ My research interests center on applying AI models and creating innovative deep 
 <ul>
 
   <li>
+    <code class="language-plaintext highlighter-rouge">EMNLP Findings 2025</code>
+    <a href="https://neurips.cc/virtual/2024/102874">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
+    <br> Sumin Ha*, <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Yinhua Piao, Sun Kim. <em>Vancouver, Canada</em> 🇨🇦
+  </li>
+
+  <li>
     <code class="language-plaintext highlighter-rouge">NeurIPS WorkShop 2024</code>
     <a href="https://neurips.cc/virtual/2024/102874">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
     <br> Sumin Ha*, <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Yinhua Piao, Sun Kim. <em>Vancouver, Canada</em> 🇨🇦
@@ -74,13 +83,14 @@ My research interests center on applying AI models and creating innovative deep 
 </ul>
 
 # 📖 Education
-- <span style="color: #D56D53;">*[2024.09 - present]*</span> Research Assistant at Bio-MAX/N-Bio, Seoul National University.
+- <span style="color: #D56D53;">*[2025.09 - present]*</span> Research Intern at MLAI Lab, KAIST.
+- <span style="color: #D56D53;">*[2024.09 - 2025.07]*</span> Research Assistant at Bio-MAX/N-Bio, Seoul National University.
 - <span style="color: #D56D53;">*[2022.09 - 2024.08]*</span> M.S. Student in Interdisciplinary Program in Artificial Intelligence, Seoul National University.
 - <span style="color: #D56D53;">*[2016.03 - 2022.08]*</span> B.S. Student in Bioengineering & Biotechnology, Yonsei University.
 
 
 # 💻 Internships
-
+- *2025.09 - present*, [MLAI Lab]([https://bhi-kimlab.github.io/](https://www.mlai-kaist.com/)), KAIST.
 - *2022.06 - 2022.08*, [Bio & Health Informatics Lab](https://bhi-kimlab.github.io/), Seoul National University.
 - *2021.12 - 2022.05*, [NetBio Lab](https://netbiolab.org/w/Welcome), Yonsei University.
 - *2021.06 - 2021.11*, [Stem Cell & Biomaterial Engineering Lab](https://scbel.yonsei.ac.kr/), Yonsei University.
