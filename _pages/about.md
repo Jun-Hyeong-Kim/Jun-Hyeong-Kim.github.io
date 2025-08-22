@@ -64,8 +64,8 @@ Recently, I have become particularly interested in leveraging LLMs in biomedicin
 
   <li>
     <code class="language-plaintext highlighter-rouge">EMNLP Findings 2025</code>
-    <a href="https://neurips.cc/virtual/2024/102874">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
-    <br> Sumin Ha*, <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Yinhua Piao, Sun Kim. <em>Vancouver, Canada</em> 🇨🇦
+    <a href="https://arxiv.org/abs/2503.04780">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
+    <br> Sumin Ha*, <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Yinhua Piao, Sun Kim. <em>Suzhou, China</em> 🇨🇳
   </li>
 
   <li>
