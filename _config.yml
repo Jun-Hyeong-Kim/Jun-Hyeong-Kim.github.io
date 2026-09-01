@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Jun Hyeong Kim"
 description              : "Bridging AI and biomedicine to solve real-world challenges."
-repository               : "Jun-Hyeong-Kim/kjh.github.io"
+repository               : "Jun-Hyeong-Kim/Jun-Hyeong-Kim.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -137,7 +137,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
