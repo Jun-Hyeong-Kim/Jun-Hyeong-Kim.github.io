@@ -10,7 +10,7 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-My name is Jun Hyeong Kim, and I am currently a research intern in the [MLAI Lab](https://www.mlai-kaist.com/) at KAIST, advised by Professor [Sung Ju Hwang](http://www.sungjuhwang.com/). I earned my M.S. degree in Artificial Intelligence at Seoul National University, where I conducted research under the guidance of Professor [Sun Kim](https://scholar.google.com/citations?user=lI_oWS8AAAAJ&hl=ko) in the [Bio & Health Informatics (BHI) Lab](https://bhi-kimlab.github.io/). Before that, I completed my Bachelor’s degree in Bioengineering & Biotechnology at Yonsei University, graduating in August 2022.
+My name is Jun Hyeong Kim, and I am currently a Ph.D. student in the [MLAI Lab](https://www.mlai-kaist.com/) at KAIST, advised by Professor [Sung Ju Hwang](http://www.sungjuhwang.com/). I earned my M.S. degree in Artificial Intelligence at Seoul National University, where I conducted research under the guidance of Professor [Sun Kim](https://scholar.google.com/citations?user=lI_oWS8AAAAJ&hl=ko) in the [Bio & Health Informatics (BHI) Lab](https://bhi-kimlab.github.io/). Before that, I completed my Bachelor’s degree in Bioengineering & Biotechnology at Yonsei University, graduating in August 2022.
 
 My previous research has mainly focused on applying graph neural networks (GNNs) and large language models (LLMs) to the biomedical domain—aiming to better capture relationships among biomedical components and to guide LLMs toward generating effective descriptions of drug candidates.
 Recently, I have become particularly interested in leveraging LLMs in biomedicine through retrieval-based approaches such as RAG. My current work emphasizes integrating biomedical knowledge graphs to supplement LLMs with domain-specific knowledge and to help them understand the complex interconnections among biomedical components, ultimately improving performance on biomedical tasks.
@@ -19,8 +19,10 @@ Recently, I have become particularly interested in leveraging LLMs in biomedicin
 
 
 # 🔥 News
-- <span style="color: #D56D53">*2025.09*:</span> &nbsp;🎉🎉 I have joined KAIST’s MLAI Lab as a research intern, advised by Prof. Sung Ju Hwang.
-- <span style="color: #D56D53">*2025.08*:</span> &nbsp;🎉🎉 My work has been accepted to EMNLP Findings 2025.
+- <span style="color: #D56D53">*2026.08*:</span> &nbsp;🎉🎉 My work has been accepted to EMNLP 2026 Main Conference.
+- <span style="color: #D56D53">*2026.03*:</span> &nbsp;🎉🎉 I have joined KAIST as a Ph.D. candidate in the MLAI Lab, advised by Prof. Sung Ju Hwang.
+- <span style="color: #D56D53">*2025.09*:</span> I have joined KAIST’s MLAI Lab as a research intern, advised by Prof. Sung Ju Hwang.
+- <span style="color: #D56D53">*2025.08*:</span> My work has been accepted to EMNLP Findings 2025.
 - <span style="color: #D56D53">*2024.10*:</span> My work is accepted by NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX).
 - <span style="color: #D56D53">*2024.10*:</span> My work is accepted by Bioinformatics Journal 2024.
 - <span style="color: #D56D53">*2024.10*:</span> I presented my work in BioInfo 2024 held in Kyungju, South Korea.
@@ -45,6 +47,12 @@ Recently, I have become particularly interested in leveraging LLMs in biomedicin
 
 
   <li>
+    <code class="language-plaintext highlighter-rouge">EMNLP 2026</code>
+    <a href="https://arxiv.org/abs/2608.30556">AdaPath: Query-Adaptive Path-Finding via Path-Bank for Multi-Hop Implicit Biomedical KGQA</a>
+    <br> <strong style="color: #dc322f">Jun Hyeong Kim</strong>, Dongki Kim, Yinhua Piao, Sung Ju Hwang
+  </li>
+
+  <li>
     <code class="language-plaintext highlighter-rouge">EMNLP Findings 2025</code>
     <a href="../assets/mv_clam_paper_acl2025.pdf">MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Models</a>
     <br> Sumin Ha*, <strong style="color: #dc322f">Jun Hyeong Kim*</strong>, Yinhua Piao, Sun Kim
@@ -58,9 +66,16 @@ Recently, I have become particularly interested in leveraging LLMs in biomedicin
 
 </ul>
 
+<!--
 # 🗣️ Conference 
 
 <ul>
+
+  <li>
+    <code class="language-plaintext highlighter-rouge">EMNLP 2026</code>
+    <a href="https://arxiv.org/abs/2608.30556">AdaPath: Query-Adaptive Path-Finding via Path-Bank for Multi-Hop Implicit Biomedical KGQA</a>
+    <br> <strong style="color: #dc322f">Jun Hyeong Kim</strong>, Dongki Kim, Yinhua Piao, Sung Ju Hwang
+  </li>
 
   <li>
     <code class="language-plaintext highlighter-rouge">EMNLP Findings 2025</code>
@@ -81,16 +96,18 @@ Recently, I have become particularly interested in leveraging LLMs in biomedicin
   </li>
 
 </ul>
+-->
 
 # 📖 Education
-- <span style="color: #D56D53;">*[2025.09 - present]*</span> Research Intern at MLAI Lab, KAIST.
+- <span style="color: #D56D53;">*[2026.03 - present]*</span> Ph.D. Student in Kim Jaechul Graduate School of AI, KAIST.
+- <span style="color: #D56D53;">*[2025.09 - 2026.02]*</span> Research Intern at MLAI Lab, KAIST.
 - <span style="color: #D56D53;">*[2024.09 - 2025.07]*</span> Research Assistant at Bio-MAX/N-Bio, Seoul National University.
 - <span style="color: #D56D53;">*[2022.09 - 2024.08]*</span> M.S. Student in Interdisciplinary Program in Artificial Intelligence, Seoul National University.
 - <span style="color: #D56D53;">*[2016.03 - 2022.08]*</span> B.S. Student in Bioengineering & Biotechnology, Yonsei University.
 
 
 # 💻 Internships
-- *2025.09 - present*, [MLAI Lab]([https://bhi-kimlab.github.io/](https://www.mlai-kaist.com/)), KAIST.
+- *2025.09 - 2026.02*, [MLAI Lab](https://www.mlai-kaist.com/), KAIST.
 - *2022.06 - 2022.08*, [Bio & Health Informatics Lab](https://bhi-kimlab.github.io/), Seoul National University.
 - *2021.12 - 2022.05*, [NetBio Lab](https://netbiolab.org/w/Welcome), Yonsei University.
 - *2021.06 - 2021.11*, [Stem Cell & Biomaterial Engineering Lab](https://scbel.yonsei.ac.kr/), Yonsei University.
@@ -116,7 +133,7 @@ Recently, I have become particularly interested in leveraging LLMs in biomedicin
 - <span style="color: #D56D53">*[2021.02]*</span> Geonseon Scholarship.
 
 # ✉ Contact
-email: tommy0906@snu.ac.kr
+email: tommykim0906@kaist.ac.kr
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
