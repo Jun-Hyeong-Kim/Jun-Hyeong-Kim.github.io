@@ -22,8 +22,9 @@
 - date: "2024.10"
   text: 'Presented at BIOINFO 2024, Gyeongju, South Korea.'
 
-- date: "2024.08"
-  text: 'Attended ACL 2024, Bangkok, Thailand.'
+# 주석 처리됨 — 다시 보이게 하려면 아래 두 줄의 # 을 지우세요.
+# - date: "2024.08"
+#   text: 'Attended ACL 2024, Bangkok, Thailand.'
 
 - date: "2024.07"
   text: 'Received a research achievement scholarship from the department.'
