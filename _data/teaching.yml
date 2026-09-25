@@ -1,0 +1,24 @@
+- term: "2024 Fall"
+  role: "Teaching Assistant"
+  course: "Computer Convergence Application"
+  org: "CSE, Seoul National University"
+  topics:
+    - "Python & PyTorch tutorial"
+    - "Tree methods: decision tree, random forest, CART, XGBoost, AdaBoost, gradient boosting"
+
+- term: "2024 Spring"
+  role: "Teaching Assistant"
+  course: "Introduction to IT for Bioinformatics"
+  org: "Interdisciplinary Program in Bioinformatics, Seoul National University"
+
+- term: "2023 Fall"
+  role: "Lead Teaching Assistant"
+  course: "AI-BIO Research Personnel Training Program"
+  org: "AI Institute of Seoul National University (AIIS)"
+
+- term: "2023 Fall"
+  role: "Teaching Assistant"
+  course: "Computer Convergence Application"
+  org: "CSE, Seoul National University"
+  topics:
+    - "Tree methods: decision tree, random forest, CART, XGBoost"

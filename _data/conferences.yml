@@ -1,0 +1,22 @@
+# 보존용. 현재 페이지에는 렌더링되지 않습니다.
+# 다시 보이게 하려면 _layouts/home.html 에 conferences 섹션을 추가하세요.
+
+- venue: "EMNLP 2026"
+  title: "AdaPath: query-adaptive path-finding via path-bank for multi-hop implicit biomedical KGQA"
+  authors: "Jun Hyeong Kim, Dongki Kim, Yinhua Piao, Sung Ju Hwang"
+  location: "TBD"
+
+- venue: "EMNLP 2025 Findings"
+  title: "MV-CLAM: multi-view molecular interpretation with cross-modal projection via language models"
+  authors: "Sumin Ha*, Jun Hyeong Kim*, Yinhua Piao, Sun Kim"
+  location: "Suzhou, China"
+
+- venue: "NeurIPS 2024 Workshop (AIDrugX)"
+  title: "MV-CLAM: multi-view molecular interpretation with cross-modal projection via language models"
+  authors: "Sumin Ha*, Jun Hyeong Kim*, Yinhua Piao, Sun Kim"
+  location: "Vancouver, Canada"
+
+- venue: "BIOINFO 2024"
+  title: "PONYTA: prioritization of phenotype-related genes from mouse KO events using PU learning on a biological network"
+  authors: "Jun Hyeong Kim*, Bonil Koo*, Sun Kim"
+  location: "Gyeongju, South Korea"

@@ -1,0 +1,29 @@
+# 최신순으로 위에 추가하세요. 상위 3개만 바로 보이고 나머지는 "Show earlier" 토글 안으로 들어갑니다.
+# text 에는 HTML 태그를 써도 됩니다 (<strong>, <a href="...">).
+
+- date: "2026.08"
+  text: 'Our paper is accepted to <strong>EMNLP 2026 Main Conference</strong>.'
+
+- date: "2026.03"
+  text: 'Started my Ph.D. at KAIST MLAI Lab, advised by Prof. Sung Ju Hwang.'
+
+- date: "2025.09"
+  text: 'Joined KAIST MLAI Lab as a research intern.'
+
+- date: "2025.08"
+  text: 'Our paper is accepted to <strong>EMNLP 2025 Findings</strong>.'
+
+- date: "2024.10"
+  text: 'Our paper is accepted to the NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX).'
+
+- date: "2024.10"
+  text: 'Our paper is accepted to <strong>Bioinformatics</strong>.'
+
+- date: "2024.10"
+  text: 'Presented at BIOINFO 2024, Gyeongju, South Korea.'
+
+- date: "2024.08"
+  text: 'Attended ACL 2024, Bangkok, Thailand.'
+
+- date: "2024.07"
+  text: 'Received a research achievement scholarship from the department.'

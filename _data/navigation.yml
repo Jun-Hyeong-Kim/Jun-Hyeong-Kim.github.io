@@ -1,37 +1,14 @@
-# main links links
+# 상단 네비게이션. url 은 _layouts/home.html 의 섹션 id 와 일치해야 합니다.
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
   - title: "News"
-    url: "/#-news"
-
+    url: "#news"
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Conference"
-    url: "/#-conference"
-
+    url: "#publications"
   - title: "Education"
-    url: "/#-education"
-
-  - title: "Internships"
-    url: "/#-internships"
-
-  - title: "Teaching Experience"
-    url: "/#-teaching-experience"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Contact"
-    url: "/#-contact"
-
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-  # - title: "Internships"
-  #   url: "/#-internships"
+    url: "#education"
+  - title: "Experience"
+    url: "#experience"
+  - title: "Teaching"
+    url: "#teaching"
+  - title: "Awards"
+    url: "#awards"

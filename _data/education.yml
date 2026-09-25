@@ -1,0 +1,15 @@
+# 학위만. 연구직 경력은 experience.yml 에 있습니다.
+
+- period: "2026.03 —"
+  degree: "Ph.D."
+  program: "Kim Jaechul Graduate School of AI, KAIST"
+  note: "Advisor: Sung Ju Hwang"
+
+- period: "2022.09 – 2024.08"
+  degree: "M.S."
+  program: "Interdisciplinary Program in Artificial Intelligence, Seoul National University"
+  note: "Advisor: Sun Kim"
+
+- period: "2016.03 – 2022.08"
+  degree: "B.S."
+  program: "Bioengineering & Biotechnology, Yonsei University"

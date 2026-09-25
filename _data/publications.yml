@@ -1,0 +1,33 @@
+# 최신순. authors 안의 본인 이름은 _config.yml 의 author.name 과 일치하면 자동으로 강조됩니다.
+# links 는 없으면 생략 가능합니다.
+
+- venue: "EMNLP 2026"
+  venue_sub: "Main"
+  title: "AdaPath: query-adaptive path-finding via path-bank for multi-hop implicit biomedical KGQA"
+  authors: "Jun Hyeong Kim, Dongki Kim, Yinhua Piao, Sung Ju Hwang"
+  url: "https://arxiv.org/abs/2608.30556"
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2608.30556"
+
+- venue: "EMNLP 2025"
+  venue_sub: "Findings"
+  title: "MV-CLAM: multi-view molecular interpretation with cross-modal projection via language models"
+  authors: "Sumin Ha*, Jun Hyeong Kim*, Yinhua Piao, Sun Kim"
+  url: "https://arxiv.org/abs/2503.04780"
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2503.04780"
+    - label: "PDF"
+      url: "assets/mv_clam_paper_acl2025.pdf"
+
+- venue: "Bioinformatics"
+  venue_sub: "2024"
+  title: "PONYTA: prioritization of phenotype-related genes from mouse KO events using PU learning on a biological network"
+  authors: "Jun Hyeong Kim*, Bonil Koo*, Sun Kim"
+  url: "https://academic.oup.com/bioinformatics/article/40/11/btae634/7829145"
+  links:
+    - label: "Paper"
+      url: "https://academic.oup.com/bioinformatics/article/40/11/btae634/7829145"
+    - label: "Code"
+      url: "https://github.com/Jun-Hyeong-Kim/PONYTA"

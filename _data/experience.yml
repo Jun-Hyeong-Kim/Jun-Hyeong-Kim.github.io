@@ -1,0 +1,30 @@
+# 연구직 경력 (인턴 / RA). 학위는 education.yml.
+
+- period: "2025.09 – 2026.02"
+  role: "Research Intern"
+  place: "MLAI Lab"
+  url: "https://www.mlai-kaist.com/"
+  org: "KAIST"
+
+- period: "2024.09 – 2025.07"
+  role: "Research Assistant"
+  place: "Bio-MAX / N-Bio"
+  org: "Seoul National University"
+
+- period: "2022.06 – 2022.08"
+  role: "Research Intern"
+  place: "Bio & Health Informatics Lab"
+  url: "https://bhi-kimlab.github.io/"
+  org: "Seoul National University"
+
+- period: "2021.12 – 2022.05"
+  role: "Research Intern"
+  place: "NetBio Lab"
+  url: "https://netbiolab.org/w/Welcome"
+  org: "Yonsei University"
+
+- period: "2021.06 – 2021.11"
+  role: "Research Intern"
+  place: "Stem Cell & Biomaterial Engineering Lab"
+  url: "https://scbel.yonsei.ac.kr/"
+  org: "Yonsei University"
