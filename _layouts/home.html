@@ -57,20 +57,21 @@
 
 <main class="shell" id="top">
 
-  <section class="hero">
-    <img class="hero__photo" src="{{ '/images/profile.jpg' | relative_url }}" alt="{{ site.author.name }}" width="640" height="640">
-    <div class="hero__id">
-      <p class="hero__eyebrow">{{ site.author.bio }}</p>
-      <h1 class="hero__name">{{ site.author.name }}</h1>
-      <div class="links">
+  <div class="layout">
+
+    <aside class="profile">
+      <img class="profile__photo" src="{{ '/images/profile.jpg' | relative_url }}" alt="{{ site.author.name }}" width="640" height="640">
+      <p class="profile__role">{{ site.author.bio }}</p>
+      <h1 class="profile__name">{{ site.author.name }}</h1>
+      <nav class="profile__links" aria-label="Profile links">
         {% if site.author.email %}<a href="mailto:{{ site.author.email }}">Email</a>{% endif %}
         {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}">Scholar</a>{% endif %}
         {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}">GitHub</a>{% endif %}
         {% if site.author.uri %}<a href="{{ site.author.uri | relative_url }}">CV</a>{% endif %}
-      </div>
-    </div>
-  </section>
+      </nav>
+    </aside>
 
+    <div class="content">
   {% if content != '' %}<section class="intro">{{ content }}</section>{% endif %}
 
   <div class="ledger">
@@ -164,6 +165,9 @@
         </div>
       {% endfor %}
     </section>
+
+  </div>
+    </div>
 
   </div>
 

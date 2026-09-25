@@ -21,7 +21,9 @@
   --label-col:8.75rem;
   --gutter:1.75rem;
   --rail:1.65rem;
-  --shell:60rem;
+  --shell:66rem;
+  --aside:12.5rem;
+  --bar-h:3.25rem;
   color-scheme:light;
 }
 
@@ -66,9 +68,10 @@ a{color:inherit}
 }
 .bar__in{
   max-width:var(--shell);margin:0 auto;padding:0 1.5rem;
-  height:3.25rem;display:flex;align-items:center;gap:1.5rem;
+  height:var(--bar-h);display:flex;align-items:center;gap:1.5rem;
 }
 .bar__name{
+  display:none;
   font-weight:600;font-size:.82rem;letter-spacing:-.01em;
   white-space:nowrap;text-decoration:none;
 }
@@ -97,37 +100,45 @@ a{color:inherit}
 /* ---------- shell ---------- */
 .shell{max-width:var(--shell);margin:0 auto;padding:0 1.5rem}
 
-/* ---------- hero ---------- */
-.hero{
-  display:flex;flex-direction:column;align-items:flex-start;gap:1.35rem;
-  padding:3.25rem 0 2.25rem;
+/* ---------- two-column layout ---------- */
+.layout{
+  display:grid;grid-template-columns:var(--aside) 1fr;
+  gap:0 3.5rem;padding-top:3.5rem;align-items:start;
 }
-.hero__id{display:flex;flex-direction:column;align-items:flex-start}
-.hero__eyebrow{
-  font-family:var(--mono);font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;
-  color:var(--accent);margin:0 0 .35rem;
+.content{min-width:0}
+
+/* ---------- profile (left column) ---------- */
+.profile{
+  position:sticky;top:calc(var(--bar-h) + 2.25rem);
+  display:flex;flex-direction:column;align-items:flex-start;
 }
-.hero__name{
-  font-weight:700;
-  font-size:clamp(1.85rem,4vw,2.45rem);line-height:1.1;letter-spacing:-.025em;
-  margin:0 0 1.05rem;text-wrap:balance;
+.profile__photo{
+  width:100%;max-width:9.5rem;aspect-ratio:1;
+  border-radius:2px;object-fit:cover;border:1px solid var(--rule);
+  margin-bottom:1.15rem;
 }
-.hero__photo{
-  width:clamp(6.5rem,13vw,8.75rem);aspect-ratio:1;
-  border-radius:2px;object-fit:cover;
-  border:1px solid var(--rule);
+.profile__role{
+  font-family:var(--mono);font-size:.66rem;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--accent);margin:0 0 .3rem;
 }
-.links{display:flex;flex-wrap:wrap;gap:.45rem}
-.links a{
+.profile__name{
+  font-weight:700;font-size:1.5rem;line-height:1.15;letter-spacing:-.022em;
+  margin:0 0 1.1rem;text-wrap:balance;
+}
+.profile__links{
+  display:flex;flex-direction:column;align-items:stretch;
+  width:100%;border-top:1px solid var(--rule);
+}
+.profile__links a{
   font-family:var(--mono);font-size:.72rem;letter-spacing:.04em;
-  text-decoration:none;color:var(--ink);
-  border:1px solid var(--rule);border-radius:2px;padding:.38rem .7rem;
-  transition:border-color .18s ease,color .18s ease,background .18s ease;
+  text-decoration:none;color:var(--muted);
+  padding:.42rem 0;border-bottom:1px solid var(--rule);
+  transition:color .18s ease,padding-left .18s ease;
 }
-.links a:hover{border-color:var(--accent);color:var(--accent);background:var(--accent-wash)}
+.profile__links a:hover{color:var(--accent);padding-left:.35rem}
 
 /* ---------- intro prose (about.md 본문) ---------- */
-.intro{max-width:64ch;padding-bottom:3rem}
+.intro{max-width:62ch;padding-bottom:2.75rem}
 .intro p{
   font-family:var(--serif);font-size:1.075rem;line-height:1.62;
   margin:0 0 1rem;text-wrap:pretty;
@@ -220,14 +231,21 @@ a{color:inherit}
 .foot__end{margin-left:auto}
 
 /* ---------- responsive ---------- */
+@media (max-width:900px){
+  .bar__name{display:block}
+  .layout{grid-template-columns:1fr;gap:2.25rem;padding-top:2.5rem}
+  .profile{position:static;flex-direction:row;flex-wrap:wrap;align-items:center;gap:0 1.25rem}
+  .profile__photo{width:6.25rem;margin-bottom:0}
+  .profile__links{width:auto;border-top:0;flex-direction:row;flex-wrap:wrap;gap:.45rem;margin-top:.9rem}
+  .profile__links a{border-bottom:0;border:1px solid var(--rule);border-radius:2px;padding:.34rem .65rem}
+  .profile__links a:hover{padding-left:.65rem}
+}
+
 @media (max-width:640px){
   :root{--label-col:100%;--rail:1.15rem}
-  .hero{gap:1.1rem;padding:2.5rem 0 2rem}
   .row{grid-template-columns:1fr;gap:.3rem}
   .row__label{padding-top:0}
   .row__label b{display:inline;margin-left:.5rem}
-  .bar__name{display:none}
-  .bar__nav{margin-left:0}
   .foot__end{margin-left:0}
 }
 
