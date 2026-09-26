@@ -21,7 +21,7 @@
   --label-col:8.75rem;
   --gutter:1.75rem;
   --rail:1.65rem;
-  --shell:66rem;
+  --shell:70rem;
   --aside:12.5rem;
   --bar-h:3.25rem;
   color-scheme:light;
@@ -138,7 +138,7 @@ a{color:inherit}
 .profile__links a:hover{color:var(--accent);padding-left:.35rem}
 
 /* ---------- intro prose (about.md 본문) ---------- */
-.intro{max-width:62ch;padding-bottom:2.75rem}
+.intro{max-width:64ch;padding-bottom:2.75rem}
 .intro p{
   font-family:var(--serif);font-size:1.075rem;line-height:1.62;
   margin:0 0 1rem;text-wrap:pretty;
