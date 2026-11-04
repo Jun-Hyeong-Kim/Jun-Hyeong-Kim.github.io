@@ -2,7 +2,7 @@
 # text 에는 HTML 태그를 써도 됩니다 (<strong>, <a href="...">).
 
 - date: "2026.10"
-  text: 'Our K-Fold preprint is now available on <a href="https://www.biorxiv.org/content/10.64898/2026.10.26.760299v1">bioRxiv</a> &mdash; I am a core contributor on the RNA foundation model.'
+  text: 'Our K-Fold preprint is now available on <a href="https://www.biorxiv.org/content/10.64898/2026.10.26.760299v1">bioRxiv</a> (Core Contributor: RNA foundation model).'
 
 - date: "2026.08"
   text: 'Our paper is accepted to <strong>EMNLP 2026 Main Conference</strong>.'
