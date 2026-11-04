@@ -1,6 +1,9 @@
 # 최신순으로 위에 추가하세요. 상위 3개만 바로 보이고 나머지는 "Show earlier" 토글 안으로 들어갑니다.
 # text 에는 HTML 태그를 써도 됩니다 (<strong>, <a href="...">).
 
+- date: "2026.10"
+  text: 'K-Fold, our work on predicting interaction-induced conformational changes, is posted on <a href="https://www.biorxiv.org/content/10.64898/2026.10.26.760299v1">bioRxiv</a>.'
+
 - date: "2026.08"
   text: 'Our paper is accepted to <strong>EMNLP 2026 Main Conference</strong>.'
 
