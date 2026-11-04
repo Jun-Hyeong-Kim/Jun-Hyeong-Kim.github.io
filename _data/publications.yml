@@ -4,7 +4,8 @@
 - venue: "bioRxiv"
   venue_sub: "Preprint"
   title: "Predicting conformational changes induced by biomolecular interactions"
-  authors: "Yeongnam Bae, … , Jun Hyeong Kim, … , Byung-Ha Oh (K-Fold team, 33 authors)"
+  authors: "Y. Bae, J. Baek, E. Choi, … , Jun Hyeong Kim, … , W. Zhung, S. Ahn, D. Han, S. J. Hwang, H. M. Kim, W. Y. Kim, G. R. Lee, B.-H. Oh"
+  note: "33 authors — contributing authors listed alphabetically"
   url: "https://www.biorxiv.org/content/10.64898/2026.10.26.760299v1"
   links:
     - label: "bioRxiv"
@@ -23,6 +24,7 @@
   venue_sub: "Findings"
   title: "MV-CLAM: multi-view molecular interpretation with cross-modal projection via language models"
   authors: "Sumin Ha*, Jun Hyeong Kim*, Yinhua Piao, Sun Kim"
+  note: "* equal contribution"
   url: "https://arxiv.org/abs/2503.04780"
   links:
     - label: "arXiv"
@@ -34,6 +36,7 @@
   venue_sub: "2024"
   title: "PONYTA: prioritization of phenotype-related genes from mouse KO events using PU learning on a biological network"
   authors: "Jun Hyeong Kim*, Bonil Koo*, Sun Kim"
+  note: "* equal contribution"
   url: "https://academic.oup.com/bioinformatics/article/40/11/btae634/7829145"
   links:
     - label: "Paper"

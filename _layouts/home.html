@@ -113,6 +113,7 @@
           <div class="row__body">
             <p class="row__title">{% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</p>
             <p class="row__meta">{{ p.authors | replace: site.author.name, me_tag }}</p>
+            {% if p.note %}<p class="row__authnote">{{ p.note }}</p>{% endif %}
             {% for l in p.links %}<a class="out" href="{{ l.url | relative_url }}">{{ l.label }} &#8599;</a>{% endfor %}
           </div>
         </div>
