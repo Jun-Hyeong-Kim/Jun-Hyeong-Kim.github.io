@@ -83,7 +83,7 @@
       <div class="sec__head"><h2 class="sec__title">News</h2></div>
       {% for item in site.data.news limit: news_shown %}
         <div class="row">
-          <div class="row__label">{{ item.date }}{% if forloop.first %}<b>New</b>{% endif %}</div>
+          <div class="row__label">{{ item.date }}{% if forloop.index <= 2 %}<b>New</b>{% endif %}</div>
           <div class="row__body"><p class="row__text">{{ item.text }}</p></div>
         </div>
       {% endfor %}
